@@ -1,0 +1,39 @@
+body{
+	background-color: #111;
+	color: #fff;
+	font-family: "Segoe UI";
+}
+
+h1{
+	text-align: center;
+}
+
+button{
+	margin: auto;
+	display: block;
+	background-color: #444;
+	color: #fff;
+	font-size: 1.5em;
+	border-radius: 0.3em;
+	border: none;
+	padding: 1.5%;
+	width: 50%;
+	margin-bottom: 2%;
+}
+
+button:hover{
+	background-color: #333;
+}
+
+.componenteGit{
+	font-size: 2em;
+	background-color: #222;
+	padding: 2%;
+	border-radius: 0.4em;
+	margin: 2%;
+	
+}
+
+.componenteGit:hover{
+	background-color: #333;
+}

@@ -1,0 +1,41 @@
+body{
+	background-color: #111;
+	color: #fff;
+	font-family: "Segoe UI";
+}
+
+h1{
+	text-align: center;
+}
+
+button{
+	margin: auto;
+	display: block;
+	background-color: #444;
+	color: #fff;
+	font-size: 1.5em;
+	border-radius: 0.3em;
+	border: none;
+	padding: 1.5%;
+	width: 50%;
+	margin-bottom: 2%;
+}
+
+button:hover{
+	background-color: #333;
+}
+
+._1WX-ZNh1u_6_qUFuQYrWF{
+	font-size: 2em;
+	background-color: #222;
+	padding: 2%;
+	border-radius: 0.4em;
+	margin: 2%;
+	
+}
+
+._1WX-ZNh1u_6_qUFuQYrWF:hover{
+	background-color: #333;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vcGFnZXMvaW5kZXguY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0NBQ0MsdUJBQXVCO0NBQ3ZCLFlBQVk7Q0FDWix3QkFBd0I7Q0FDeEI7O0FBRUQ7Q0FDQyxtQkFBbUI7Q0FDbkI7O0FBRUQ7Q0FDQyxhQUFhO0NBQ2IsZUFBZTtDQUNmLHVCQUF1QjtDQUN2QixZQUFZO0NBQ1osaUJBQWlCO0NBQ2pCLHFCQUFxQjtDQUNyQixhQUFhO0NBQ2IsY0FBYztDQUNkLFdBQVc7Q0FDWCxrQkFBa0I7Q0FDbEI7O0FBRUQ7Q0FDQyx1QkFBdUI7Q0FDdkI7O0FBRUQ7Q0FDQyxlQUFlO0NBQ2YsdUJBQXVCO0NBQ3ZCLFlBQVk7Q0FDWixxQkFBcUI7Q0FDckIsV0FBVzs7Q0FFWDs7QUFFRDtDQUNDLHVCQUF1QiIsImZpbGUiOiJzdGF0aWMvY3NzL3N0eWxlcy5jaHVuay5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5e1xyXG5cdGJhY2tncm91bmQtY29sb3I6ICMxMTE7XHJcblx0Y29sb3I6ICNmZmY7XHJcblx0Zm9udC1mYW1pbHk6IFwiU2Vnb2UgVUlcIjtcclxufVxyXG5cclxuaDF7XHJcblx0dGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG5idXR0b257XHJcblx0bWFyZ2luOiBhdXRvO1xyXG5cdGRpc3BsYXk6IGJsb2NrO1xyXG5cdGJhY2tncm91bmQtY29sb3I6ICM0NDQ7XHJcblx0Y29sb3I6ICNmZmY7XHJcblx0Zm9udC1zaXplOiAxLjVlbTtcclxuXHRib3JkZXItcmFkaXVzOiAwLjNlbTtcclxuXHRib3JkZXI6IG5vbmU7XHJcblx0cGFkZGluZzogMS41JTtcclxuXHR3aWR0aDogNTAlO1xyXG5cdG1hcmdpbi1ib3R0b206IDIlO1xyXG59XHJcblxyXG5idXR0b246aG92ZXJ7XHJcblx0YmFja2dyb3VuZC1jb2xvcjogIzMzMztcclxufVxyXG5cclxuLmNvbXBvbmVudGVHaXR7XHJcblx0Zm9udC1zaXplOiAyZW07XHJcblx0YmFja2dyb3VuZC1jb2xvcjogIzIyMjtcclxuXHRwYWRkaW5nOiAyJTtcclxuXHRib3JkZXItcmFkaXVzOiAwLjRlbTtcclxuXHRtYXJnaW46IDIlO1xyXG5cdFxyXG59XHJcblxyXG4uY29tcG9uZW50ZUdpdDpob3ZlcntcclxuXHRiYWNrZ3JvdW5kLWNvbG9yOiAjMzMzO1xyXG59Il0sInNvdXJjZVJvb3QiOiIifQ==*/
