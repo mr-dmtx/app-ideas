@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Meal</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container">
+        <button id="gerarRefeicao" class="btn btn-primary btn-lg btn-block mb-5 mt-5 row">Gerar refeição</button>
+        <div id="refeicao" class="row justify-content-center">
+            <div class="row mb-5">
+                <h1 id="nomeRefeicao" class="text-center"></h1>
+            </div>
+            <div class="row mb-5">
+                <img id="imgRefeicao" class="img-fluid col-sm-10">
+                <ul id="ingredientes" class="list-group list-group-flush col-sm-2 text-capit"></ul>
+            </div>
+            <div class="row embed-responsive embed-responsive-16by9 mb-5">
+                <iframe class="embed-responsive-item col-12"id="ytbVideo"></iframe>
+            </div>
+            <div class="row mb-5">
+                <ul id="passos" class="list-group list-group-flush text-capit"></ul>
+            </div>
+            
+        </div>
+        
+    </div>
+    </div>
+    <script src="js/jquery-3.6.0.js"></script>
+    <script src="js/RandomMeal.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
