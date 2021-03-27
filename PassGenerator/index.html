@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PassGenerator</title>
+</head>
+<body>
+    <!--Configurar senha-->
+    <input type="number" id="tamanhoSenha" placeholder="Tamanho da senha">
+    <input type="checkbox" name="" id="cbSymbols"> Incluir simbolos
+    <input type="checkbox" name="" id="cbNumbers"> Incluir numeros
+    <input type="checkbox" name="" id="cbUpperCase"> Incluir letras maiusculas
+    <input type="checkbox" name="" id="cbLowerCase"> Incluir letras minusculas
+    <button onclick="GerarSenha()">Gerar senha</button>
+
+    <!--Senha Gerada-->
+    <h1 id="password"></h1>
+    
+    <!--Informacoes senha-->
+    <p id="nota"></p>
+    <script src="js/zxcvbn.js"></script>
+    <script src="js/index.js"></script>
+</body>
+</html>
